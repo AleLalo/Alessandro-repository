@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<library xml:id="ZTT" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://AleLalo.github.io/ZangTumbTumb/schema.xsd">
+		<item n="1" xml:id="ZTT-1">
+			<dc:title>Fondazione e Manifesto del Futurismo</dc:title>
+			<dc:creator ref="https://viaf.org/viaf/4933263/">Marinetti, Filippo Tommaso (1876-1944)</dc:creator>
+			<!--Movimenti d'avanguardia-->
+			<dc:subject xsi:type="dcterms:BNCF">31598</dc:subject>
+			<!--Historical, geographic & persons treatment-->
+			<dc:subject xsi:type="dcterms:DDC">709</dc:subject>
+			<!--Italian peninsula & adjacent islands-->
+			<dc:subject xsi:type="dcterms:DDC">945</dc:subject>
+			<!--Periodical literature. Writings in serials, journals, reviews. Occasional literature. Polemic, political writings. Pamphleteering-->
+			<dc:subject xsi:type="dcterms:LCSH">https://id.loc.gov/authorities/subjects/sh85052619.html</dc:subject>
+			<!--Futurism (Literary movement)-->
+			<dc:subject xsi:type="dcterms:LCSH">https://id.loc.gov/authorities/subjects/sh85052620.html</dc:subject>
+			<!--Modernism (Aesthetics)-->
+			<dc:subject xsi:type="dcterms:LCSH">https://id.loc.gov/authorities/subjects/sh85086444.html</dc:subject>
+			<!--Social movements-->
+			<dc:subject xsi:type="dcterms:LCSH">https://id.loc.gov/authorities/subjects/sh85123979.html</dc:subject>
+			<dc:subject xsi:type="dcterms:UDC">82-92</dc:subject>
+			<!--Futurism (Art)-->
+			<dc:description>
+				Fondazione e Manifesto del Futurismo è il manifesto fondativo del movimento futurista, pubblicato per la prima volta nel quotidiano francese Le Figaro il 20 febbraio 1909. Il documento in questione è una ristampa italiana del 1909, proveniente da una collezione di manifesti futuristi posseduta dalla Biblioteca Universitaria di Padova.
+			</dc:description>
+			<dc:publisher>Poligrafia Italiana</dc:publisher>
+			<dc:date xsi:type="dcterms:W3CDTF">1909-02-20</dc:date>
+			<dc:type>Libro</dc:type>
+			<dc:format>Quattro pagine</dc:format> 
+			<dc:identifier xsi:type="dcterms:URI">https://www.wdl.org/en/item/20024</dc:identifier>
+			<dc:source>H.W. Janson, A History of Art (Englewood Cliffs, NJ: Prentice-Hall, 1970)</dc:source>
+			<!--John James White, “Futurism”, in Encyclopaedia Britannica-->
+			<dc:source xsi:type="dcterms:URI">https://www.britannica.com/art/Futurism#ref1052836</dc:source>
+			<!--Words in Freedom: Futurism at 100. An exhibition held at the Museum of Modern Art, New York, in 2009-->
+			<dc:source xsi:type="dcterms:URI">https://www.moma.org/interactives/exhibitions/2009/futurism</dc:source>
+			<dc:language xsi:type="dcterms:ISO639-2">Ita</dc:language>
+			<dc:coverage xsi:type="dcterms:TGN" ref="http://vocab.getty.edu/page/tgn/1000080">Italy</dc:coverage>
+			<dc:provenance>Biblioteca Universitaria di Padova</dc:provenance>
+		</item>
+	</library>
