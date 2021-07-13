@@ -40,6 +40,10 @@ iframe {
   margin-bottom: 10px; 
 }
 
+#isbn-raw {
+  height: 50px;
+}
+
 #item-title {
   background-color: #B0C4DE;
   text-align: center;
