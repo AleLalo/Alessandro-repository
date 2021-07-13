@@ -59,8 +59,6 @@ iframe {
 }
 
 .navbar-nav {
-  display: block;
-  float: none;
   margin: auto;
   text-align: center;
 }
