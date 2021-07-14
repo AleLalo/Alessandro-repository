@@ -26,7 +26,7 @@
 			<dc:date xsi:type="dcterms:W3CDTF">1909-02-20</dc:date>
 			<dc:type>Libro</dc:type>
 			<dc:format>Quattro pagine</dc:format> 
-			<dc:identifier xsi:type="dcterms:URI">https://alelalo.github.io/Zang-Tumb-Tumb/</dc:identifier>
+			<dc:identifier xsi:type="dcterms:URI">https://alelalo.github.io/Zang-Tumb-Tumb/item.html</dc:identifier>
 			<dc:source>H.W. Janson, A History of Art (Englewood Cliffs, NJ: Prentice-Hall, 1970)</dc:source>
 			<!--John James White, “Futurism”, in Encyclopaedia Britannica-->
 			<dc:source xsi:type="dcterms:URI">https://www.britannica.com/art/Futurism#ref1052836</dc:source>
